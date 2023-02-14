@@ -1,0 +1,1 @@
+1) fix scaling issue. original scaling doesn't fill the whole vh or vw
